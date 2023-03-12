@@ -1,0 +1,41 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+nav {
+  background-color: rgb(240, 179, 179);
+  
+}
+
+
+nav a.nav-link {
+  color: black;
+  font-weight: 500;
+  
+}
+
+h1.access_denied {
+  font-size: 50px;
+text-align: center;
+color: red;
+margin: 20px 0
+}
+
+div.button {
+  border-radius: 15px;
+  border: 2px solid black;
+  margin: auto;
+  font-weight: 500;
+  padding: 10px;
+  width: fit-content;
+  text-decoration: none;
+  color: black;
+}
+#link {
+  text-decoration: none;
+}
